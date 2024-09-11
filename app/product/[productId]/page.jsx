@@ -4,7 +4,6 @@ import Image from "next/image"
 import Link from "next/link"
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Api } from "@/components/services/api-client";
-// import ProductButton from "@/components/shared/parts/ProductButton"
 import ProductButton from "../../../components/shared/parts/ProductButton"
 
 
